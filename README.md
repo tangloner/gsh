@@ -1,5 +1,8 @@
 # THE GUAN SHELL (GSH)
 
+It is created by Hao Guan in my CS302 operating system course.
+I forked it to seek comments to further improve it. B.T.
+
 ## Introducion
 
 Gsh is a toy software for operating system course, which is a good practice of comprehending system calls including `fork()` and `exec()`. It is not stable, but for educational and experimental use. Please use under your own risk.
